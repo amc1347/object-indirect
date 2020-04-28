@@ -54,11 +54,11 @@ body {
 
 #navbar {
   display: flex;
-  margin: 11vh 0vh 0vh 15vh;
+  margin: 11vh 0vh 0vh 4.3vh;
   position: absolute;
   flex-direction: column;
   line-height: 4vh;
-  background-color: rgb(255, 255, 255, 50%);
+  /* background-color: rgb(255, 255, 255, 50%); */
   padding: 2vh;
   height: 13vh;
 }
