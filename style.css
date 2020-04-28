@@ -1,0 +1,86 @@
+* {
+  font-family: 'Roboto', sans-serif;
+
+}
+
+body {
+  background-image: url('wallpaper1.png');
+  background-position: bottom;
+  background-repeat: repeat;
+  background-size: auto;
+}
+
+
+
+#title h1 {
+  font-family: 'Elsie';
+  /* margin-bottom: -10px; */
+  margin-left: 10px;
+}
+
+#title h2 {
+  font-weight: 400;
+  font-style: italic;
+  margin-top: -10px;
+}
+
+#title {
+  margin-top: 8vh;
+  /* background: rgb(255, 255, 255, 85%); */
+  padding: 7px;
+  width: 30%;
+  font-size: 300%;
+  margin-bottom: -11vh;
+  color: black;
+}
+
+.maincontent {
+  /* border: black 2pt solid; */
+  /* display: flex; */
+  height: 68vh;
+  /* margin-top: 8vh; */
+  /* margin: 0vh 3vh 8vh 3vh; */
+  background-color: rgb(255, 255, 255, 95%);
+  /* padding-top: 4vh;*/
+ margin-left: 8vh;
+}
+
+
+#contents {
+  margin: 0vh 3vh 8vh 3vh;
+  padding-top: 11vh;
+  padding-left: 28vh;
+}
+
+#navbar {
+  display: flex;
+  margin: 11vh 0vh 0vh 15vh;
+  position: absolute;
+  flex-direction: column;
+  line-height: 4vh;
+  background-color: rgb(255, 255, 255, 50%);
+  padding: 2vh;
+  height: 13vh;
+}
+
+#navbar a{
+  color: black;
+  font-size: 120%;
+  font-style: italic;
+}
+
+.image {
+  height: 40vh;
+}
+
+.content0 {
+  width: 60px;
+  padding-top: -80px;
+  font-size: 185%;
+}
+
+.content3 {
+  text-align: justify;
+  align-items: start;
+  font-weight: 400
+}
